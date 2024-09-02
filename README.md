@@ -1,8 +1,5 @@
-## Hi there 👋
-
-# 💫 About Me:
-i'm currently a MCA student.<br>Learning MERN STACK 
-
+<h1 align="center" >Hi 👋, I'm Priya Pandey</h1>
+<h3 align="center" >A passionate Web Developer from India</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priya-pandey-78835721a) 
