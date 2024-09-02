@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Priya Pandey</h1>
 <h3 align="center" >A passionate Web Developer from India</h3>
-<img align ="right" alt="coding" width="300" src="[https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b9528xmceg8tvkaph5rcpn1bz89qj4il5yjpr6on294y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)"
+<img align ="right" alt="coding" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priya-pandey-78835721a) 
