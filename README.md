@@ -1,5 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Priya Pandey</h1>
 <h3 align="center" >A passionate Web Developer from India</h3>
+<img align ="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/467f0af1-2a54-4ec4-b6c4-5abb139c9306"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priya-pandey-78835721a) 
